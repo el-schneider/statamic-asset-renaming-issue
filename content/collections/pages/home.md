@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 template: home
 asset:
-  - test_folder/nice_landscape.jpg
+  - nice_landscape.jpg
 updated_by: 69fafaae-9537-4ecc-b223-b26a05bdfe5b
 updated_at: 1688670071
 replicator:
